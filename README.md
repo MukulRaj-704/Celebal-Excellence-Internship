@@ -1,4 +1,4 @@
-# Celebal Technology — Data Science Internship (2025)
+# Celebal Technology — Data Science Internship (2026)
 
 **Name: Mukul Raj**  
 **Intern ID: CT_CEI_DS_687**  
