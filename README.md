@@ -3,7 +3,7 @@
 **Name: Mukul Raj**  
 **Intern ID: CT_CEI_DS_687**  
 **Domain:** Data Science  
-**Duration:** MAY 2025 – July 2025  
+**Duration:** May 2026 – July 2026  
 
 ---
 
